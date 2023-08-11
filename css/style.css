@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.navbar{
+    background-color: deeppink !important;
+}
+a.navbar-brand{
+    font-weight: 900;
+}
+.carrossel-imagem{
+    height: 250px;
+    width: 300px;
+}
+.card-img-top{
+    height: 300px;
+}
+.btn {
+    background-color: deeppink;
+}
